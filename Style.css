@@ -14,13 +14,16 @@ H2{
 }
 img{
 	float: middle;
-	width: 200px;
+	width: 300px;
 }
 h6{
 	background-color: skyblue;
 }
 
-audio{
-	
-
+a{
+	background-color: dodgerblue;
+	color: white;
+	padding: 1rem 1rem;
+	text-decoration: initial;
+	border-radius: 66px;
 }
