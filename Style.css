@@ -2,19 +2,25 @@ font{
 	background-color: whitesmoke;
 }
 p{
-	background: burlywood;
+	background:
 	margin: 0;
 	padding: 0;
 	width: 600px;
 }
 H2{
-	background-color: whitesmoke;
+	background-color: rgb(3, 200, .444);
 	width: 400PX;
-	font-style: inherit;
+	font-weight: lighter;
 }
 img{
-	float: right;
+	float: middle;
+	width: 200px;
 }
-h1{
-	background-color: whitesmoke;
+h6{
+	background-color: skyblue;
+}
+
+audio{
+	
+
 }
