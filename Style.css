@@ -8,9 +8,12 @@ p{
 	width: 600px;
 }
 H2{
-	background-color: rgb(3, 200, .444);
+	background-color: darkred;
 	width: 400PX;
 	font-weight: lighter;
+	color: white;
+	padding: 5PX;
+	border-radius: 44PX;
 }
 img{
 	float: middle;
@@ -26,4 +29,13 @@ a{
 	padding: 1rem 1rem;
 	text-decoration: initial;
 	border-radius: 66px;
+}
+H1{
+	background-color: darkred;
+	color: white;
+	padding: 11PX;
+	border-radius: 22PX;
+	font-size: 1REM;
+	min-height: 2VH;
+	
 }
